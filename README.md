@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Anas
+#### I am a general purpose software engineer 😀
+![I am a general purpose software engineer 😀](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**anaselrayan/anaselrayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about me..
 
-Here are some ideas to get you started:
+Skills: Problem Solving / JAVA / C++ / SQL / GIT  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on college project (android app) with my team. 
+- 🌱 I’m currently learning learning computer science in Minofia university. 
+- ⚡ Fun fact:  Programming, chess and table tennis are my favourite hobbies ! 
+
+
+
+
