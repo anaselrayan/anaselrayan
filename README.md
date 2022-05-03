@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anas.g.elrayan@gmail.com**
 
-- ⚡ Fun fact ** Programming, chess and table tennis are my favourite hobbies !**
+- ⚡ Fun fact: Programming, chess and table tennis are my favourite hobbies !
 
 ## 🚀 Languages and Tools:
 
