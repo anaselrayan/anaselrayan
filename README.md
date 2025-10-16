@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **college project (android app) with my team.**
+- 🔭 I’m currently working on **Developing Healthcare System**
 
-- 🌱 I’m currently learning **Spring Boot technology.**
+- 🌱 I’m currently learning **Microservice architecture**
 
 - 📫 How to reach me **anas.g.elrayan@gmail.com**
 
